@@ -1,0 +1,309 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_btn_choose_country">Choose country</string>
+    <string name="home_pop_up_title_choose_country">Choose country</string>
+    <string name="server_btn_connect">Connect</string>
+    <string name="server_btn_disconnect">Disconnect</string>
+    <string name="server_txt_ping">Ping:</string>
+    <string name="server_txt_sessions">Sessions:</string>
+    <string name="server_txt_speed">Speed:</string>
+    <string name="server_txt_city">City:</string>
+    <string name="server_error_loading_profile">Error loading profile</string>
+    <string name="server_txt_status">Status connection:</string>
+    <string name="server_not_connected">Not connected</string>
+    <string name="server_list_more">Details</string>
+    <string name="mbps">Mbps</string>
+    <string name="ms">ms</string>
+    <string name="loading_text">Loading...</string>
+    <string name="downloading_csv_text">Downloading servers list...</string>
+    <string name="downloading_csv_text_premium">Downloading premium servers list</string>
+    <string name="parsing_csv_text">Parsing servers list...</string>
+    <string name="csv_file_error">Problem with a file reading...</string>
+    <string name="csv_file_error_parsing">Problem with a file parsing...</string>
+    <string name="network_error">Network error...</string>
+    <string name="successfully_loaded">Successfully loaded</string>
+    <string name="action_about">About</string>
+    <string name="action_refresh">Refresh servers list</string>
+    <string name="action_share">Share</string>
+    <string name="action_giftbox">Free Coin</string>
+    <string name="ok">Ok</string>
+
+    <string name="settings_details"><![CDATA[Go to <font color="#de0421"><u>your home screen > Internet > <small>MORE</small> > Extensions > Block content</u></font> then turn the switch on and make sure <b>VPN Pro</b> is selected.<br><br>To unblock ads, come back to this app then tap the VPN Pro switch button.]]></string>
+
+
+    <string name="network_error_message">Internet is not available, reconnect network and try again.</string>
+
+    <string name="more_servers">Get more servers</string>
+    <string name="feature_not_available">This feature temporarily is not available</string>
+    <string name="feature_not_available_without_perm">Without account information this feature is not available</string>
+
+    <string name="what_is_my_ip">What is my IP?</string>
+    <string name="action_current_connection">Current connection</string>
+    <string name="random_connection">Quick connection</string>
+    <string name="total_servers">%1$d secured servers</string>
+    <string name="total_premium_servers">%1$d premium servers</string>
+    <string name="loading_additional_servers">The loading of additional servers</string>
+    <string name="current_servers_list">Current servers list</string>
+    <string name="you_have_servers"><b>You have servers:</b></string>
+    <string name="info_basic">%1$d basic</string>
+    <string name="info_additional">%1$d additional</string>
+    <string name="connect_on_start">Connect on start</string>
+    <string name="connect_on_start_summary">Connect when application is started</string>
+    <string name="choose_country_priority">Choose country priority</string>
+    <string name="choose_country_priority_summary">If not enabled then use random connection</string>
+    <string name="choose_country">Choose country</string>
+    <string name="error_random_country">Server with priority country %1$s is not available</string>
+    <string name="success_pop_up_title"><b>Awesome!</b></string>
+
+    <string name="success_pop_up_title2"><b>You are succesfully connected!</b></string>
+    <string name="open_playmarket">Open PlayMarket</string>
+    <string name="open_browser">Open browser</string>
+    <string name="show_my_desktop">Show my desktop</string>
+    <string name="stay_to_try_something_else">Stay to try something else</string>
+    <string name="automatic_switching">Automatic switching</string>
+    <string name="automatic_switching_category">Automatic switching</string>
+    <string name="automatic_switching_set_seconds">Set seconds</string>
+    <string name="automatic_switching_summary">Automatic switching to the same country server after some seconds,
+        if this connecting impossible.
+    </string>
+    <string name="choose_country_priority_category">Country priority</string>
+    <string name="connect_on_start_category">Auto start on boot</string>
+    <string name="try_another_server_text">This VPN seems busy. Do you want try another server?</string>
+    <string name="try_another_server_ok">Yes</string>
+    <string name="try_another_server_no">No</string>
+    <string name="traffic_in">%1$s</string>
+    <string name="traffic_out">%1$s</string>
+    <string name="traffic_totally"><b>Totally through the application</b></string>
+    <string name="rating_title"><b>Love VPN Pro?</b></string>
+    <string name="rating_sure">Sure</string>
+    <string name="rating_not">Not really</string>
+    <string name="rating_text">Rate us 5 - stars to help make VPN Pro even more awesome. Thanks! 👍
+    </string>
+    <string name="share_text">
+         VPN Pro! Securily, Fast, Unlimited and 100% Free!
+        \nMore than million servers on the world with ad-blocker features.
+        \n\nhttps://play.google.com/store/apps/details?id=com.brainlab.smartvpn
+    </string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="bookmark_delete">Delete</string>
+    <string name="note_title"><b>Note</b></string>
+    <string name="note_text">The list of the servers you will find
+        in this application are from VPNGATE and are
+        provided by <b>volunteers around the world</b>.
+    </string>
+    <string name="note_link">\nYou can provide your own computer as a VPN server to join this experiment.</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="transition_app_icon">appicon</string>
+    <string name="button_connect">Connect</string>
+
+    <string name="subscription_period_prompt">Select your subscription period</string>
+    <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+    <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+    <string name="subscription_period_monthly">Monthly $6.99</string>
+    <string name="subscription_period_threemonth">Three Month $14.99</string>
+    <string name="subscription_period_sixmonth">Six Month $24.99</string>
+    <string name="subscription_period_yearly">Yearly $34.99</string>
+    <string name="subscription_prompt_continue">Continue</string>
+    <string name="subscription_prompt_cancel">Cancel</string>
+    <string name="content_description_app_loading_image">App loading image</string>
+
+    <string name="toast_cleaning">Cleaning</string>
+    <string name="btn_success">Great! Success.</string>
+
+    <string name="rewarded_item">Good! You won one hour ads-blocker.</string>
+    <string name="try_again_rewarded">Sorry! You can\'t this anymore. Please try again next day.</string>
+    <string name="i_agree">I agree</string>
+    <string name="welcome_app">Welcome!</string>
+    <string name="you_won_coin">Good! You won 200 coin.</string>
+    <string name="server_btn_premium_connect">Connect</string>
+    <string name="server_btn_normal_connect">Connect</string>
+    <string name="server_btn_coin_premium">-500 Coin</string>
+
+    <string name="server_btn_coin">+10 Coin</string>
+    <string name="btn_buy_coin">Buy 50.000 Coins</string>
+    <string name="dialog_remove_premium_title">Remove Premium</string>
+    <string name="dialog_remove_premium">Are you sure for remove premium?</string>
+    <string name="open_sources">
+        \n This application uses the following components; see the source code for full details on the licenses. \n
+
+        \n * OpenVPN for Android https://github.com/schwabe/ics-openvpn under GPLv2 \n
+        <br />
+        \n * NumberProgressBar https://github.com/daimajia/NumberProgressBar under MIT \n
+        <br />
+        \n * Fast-Android-Networking https://github.com/amitshekhariitbhu/Fast-Android-Networking under Apache 2.0 \n
+        <br />
+        \n * Glide https://github.com/bumptech/glide under BSD, part MIT and Apache 2.0 \n
+         <br />
+        \n * Smart App Rate https://github.com/codemybrainsout/smart-app-rate under Apache 2.0 \n
+         <br />
+
+          <br />
+        \n * Whats my IP api service  https://ifconfig.co/ thanks a lot! \n
+         <br />
+
+    </string>
+
+    <string name="vpngate_detail">VPN Pro which lets you easily to connect to a number of free VPN server around the world with just a single tap!
+           You can connect on securily and high-speed servers easy way.    \n
+             \n The list of servers the application connect is http://www.vpngate.net VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. \n
+        \n The purpose of this research is to expand the knowledge of \"Global Distributed Public VPN Relay Servers\". \n</string>
+
+    <string name="info_social">Follow us and get the first news</string>
+    <string name="remove_premium">Remove Premium</string>
+    <string name="header_premium">VPN Pro+</string>
+    <string name="header_ad_free">VPN Pro</string>
+    <string name="cleaned">Cache and memory cleaned</string>
+    <string name="channel_name">Channel1</string>
+    <string name="channel_description">ChannelDesc</string>
+    <string name="channel_name_background">Connection Statics</string>
+    <string name="channel_description_background">Ongoing statistics of the established OpenVPN connection</string>
+    <string name="channel_name_status">Connection status change</string>
+    <string name="channel_description_status">Status changes of the OpenVPN connection (Connecting, authenticating,…)</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_location">Location</string>
+    <string name="drawer_bookmarks">Bookmarks</string>
+    <string name="drawer_servers_info">Servers Info</string>
+    <string name="drawer_toolbox">ToolBox</string>
+    <string name="drawer_whatsmyip">What\'s My Ip?</string>
+    <string name="drawer_getpremium">Get Premium</string>
+    <string name="drawer_rateus">Rate Us</string>
+    <string name="drawer_share">Share Us</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_about">About</string>
+    <string name="tracking_text">Real-time block list (RBL) of harmful websites (i.e. phishing sites, malware sites, spyware sites, and parked domains that may contain excessive advertising including pop-up and/or pop-under advertisements, etc.) and will warn you whenever you attempt to access a site containing potentially threatening content</string>
+    <string name="provider_comodo_secure_dns">Provider: Comodo Secure DNS™</string>
+    <string name="video_text">Watch ultra speed speed on media platforms. Like Netflix, Youtube, Vimeo and others. Do not miss anything.</string>
+    <string name="provider_google_dns">Provider: Google™ DNS</string>
+    <string name="extra_text">For jobs requiring extra security and project your privacy.</string>
+    <string name="blocking_malware_sites_and_visit_websites_on_safely_and_fastest">Blocking malware sites and visit websites on safely and fastest</string>
+    <string name="plans_text">Get the look at premium packages for better speed and security</string>
+    <string name="vpn_plans_title">VPN Plans</string>
+    <string name="bonus_coin">Win extra coins for premium servers. Now you can watch ads until the end. Getting more +100 coins extra.</string>
+    <string name="anti_risk_text">Block annoying pop up ads, block sites hosting malware, phishing schemes, and scams, fake websites. Protect yourself from the online risks.</string>
+    <string name="anti_risks_title">Anti Risks</string>
+    <string name="freedom_text">Surfing on internet have fast and uncensored. Archieve any website don\'t keep logging your visited websites or application. Enjoy your freedom.</string>
+    <string name="freedom_title">Freedom</string>
+    <string name="total_traffic_in">Total Traffic (In):</string>
+    <string name="total_status">Total Status</string>
+    <string name="traffic_out_1">Traffic (Out):</string>
+    <string name="traffic_in_1">Traffic (In):</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="speed">Speed:</string>
+    <string name="signal">Signal:</string>
+    <string name="server_status">Status:</string>
+    <string name="sessions">Sessions:</string>
+    <string name="server_location">Location:</string>
+    <string name="server_vpn_status">VPN Status</string>
+    <string name="server_ip">172.112.33.44</string>
+    <string name="server_name">VPN62110371</string>
+    <string name="more_coin_text">Coins system gives you the right to use free premiums advantages.  \n
+        If you can <b>connect any server app everyday</b> you win between 300 and 1000 coins. Also when you connecting any server you win 10 coins extra.\n
+       Maybe you should use rewarded ads. Rewarded video ads you give between 100 and 300 coins.</string>
+    <string name="extraCoins">+500 Coins</string>
+    <string name="modded_servers">Server Mods</string>
+    <string name="top_countries">Top Countries</string>
+    <string name="dns_mods">Dns Mods</string>
+    <string name="toast_dont_have_coins">Sorry... You don\'t have enough coins. You can win coins bottom coins button.</string>
+    <string name="discount_price">%79 Discount</string>
+    <string name="privacy_policy_2">You tapping "I Agree", you confirm that you accept our Terms of Service and you have read Privacy Policy.</string>
+    <string name="smart_vpn_embraces_the_eu_gpdr_regulation_to_support_online_privacy">privacy_policy_1</string>
+    <string name="giftbox_detail">Collect coins easily and don\'t need real money, just collect 50.000 coins. And then you buy premium mode free forever!</string>
+    <string name="win_500_coins">Win Free Coins</string>
+    <string name="watc_and_reward">Watch ads and reward <b>+500</b> coins and you can buy with coins for premium mode forever.</string>
+    <string name="visit_app_text">If connect to at least <b>15</b> VPN servers per day, you will win +1000 Coins.</string>
+    <string name="subscribe_details">For more info see Privacy Policy and Terms of Service.  \n
+    For all the subscriptions applies the following: - The duration of every period of the subscription shown in Google Play Subscription section. - The price of the subscription is shown in  the VPN Pro\'s Purchase panel updated to the time of the purchase. - Payment will be charged to Google Play account at confirmation of purchase. - Subscription automatically renews unless auto-renew turned off and subscription payment payment least 7 days. - Account will be charged for renewal within 24-hours prior to the end of current period. - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user\'s account settings after purchase. - If you want to refund your subscription you can easily with Google Play page.</string>
+    <string name="price_text_yearly">11.98 $</string>
+    <string name="server_quality">Server Quality:</string>
+    <string name="good">Good</string>
+    <string name="total_traffic_out">Total Traffic (Out):</string>
+    <string name="giftbox">GiftBox</string>
+    <string name="social">Social</string>
+    <string name="translate">Translate</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate us</string>
+    <string name="we_need_your_reviews_and_stars">We need your reviews and stars ♥</string>
+    <string name="licenses">Licenses</string>
+    <string name="check_open_source_licenses">Check open source licenses</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="check_it_out_our_rules_and_privacy_policy">Check it out our rules and privacy policy</string>
+    <string name="kill_overheated_apps_and_background_works">Kill overheated apps and background works</string>
+    <string name="clean">Clean</string>
+    <string name="clean_useless_apps_immediately">Clean useless apps immediately.</string>
+    <string name="check_network_for_more_speed">Check network for more speed</string>
+    <string name="save_your_power_battery_draining_apps">Save your power battery draining apps</string>
+    <string name="christmas_treee">Christmas Tree</string>
+    <string name="rate_uss"><![CDATA[To help us improve VPN Pro be a better app, please give us 5 stars rating! That will help us a lot️]]></string>
+    <string name="your_network_is_secure_now_browse_favorite_websites">Your network is secure now. Browse your favorite websites.</string>
+    <string name="connected">Network secured!</string>
+    <string name="rate_app">Rate App</string>
+    <string name="boost_your_device">Boost Your Device</string>
+
+    <string name="anti_risks_mode">Anti Risks Mode</string>
+    <string name="gaming_mode">Gamer Mode</string>
+    <string name="security_mode">Security Mode</string>
+    <string name="download_status">Download Status</string>
+    <string name="dns_changer">DNS Changer</string>
+    <string name="easy_to_use_tool_to_make_it_easy_and_fast_to_switch_between_dns_domain_name_system_servers_to_provide_you_trustworthy_secure_and_reliable_internet_connection">It protects you against DNS spoofing, helps you to access websites which are blocked by your ISP.</string>
+    <string name="_3">3</string>
+    <string name="moscow">Moscow</string>
+    <string name="turbo_mode">Turbo Mode</string>
+    <string name="anti_tracking_mode">Anti Tracking Mode</string>
+    <string name="streaming_mode">Netflix Mode</string>
+    <string name="_14ms">14ms</string>
+    <string name="freedom_mode">Freedom Mode</string>
+
+    <string name="vpn_pro">VPN Pro</string>
+    <string name="best_free_amp_unlimited_vpn_service"><![CDATA[Best Free & Unlimited VPN Service]]></string>
+
+    <string name="action_rate_us">Rate VPN Pro</string>
+    <string name="killing_unused_background_services">Killing unused background services</string>
+    <string name="stopping_big_apps">Stopping big apps</string>
+    <string name="start">Start</string>
+    <string name="cooling_cpu">Cooling CPU</string>
+    <string name="killing_unused_services">Killing unused services</string>
+    <string name="enjoy_fast_secure_connection"><![CDATA[Enjoy fast & secure connection!]]></string>
+    <string name="for_twitch_watchers_enjoy_your_streamers">For twitch watchers. Enjoy your streamers.</string>
+    <string name="russia">Russia</string>
+    <string name="united_states">United States</string>
+    <string name="twitch">Twitch™</string>
+
+    <string name="server_genres">Server Genres</string>
+
+    <string name="unlock_features_and_connect_fast_secure_connection"><![CDATA[Unlock features and connect fast & secure connection!]]></string>
+    <string name="for_surfing_on_the_web_fast_and_securely">For surfing on the web. Fast and securely.</string>
+    <string name="todo">TODO</string>
+
+    <string name="booster">Booster</string>
+    <string name="for_">for</string>
+    <string name="netflix">Netflix™</string>
+
+    <string name="general">GENERAL</string>
+    <string name="social_media">SOCIAL MEDIA</string>
+    <string name="for_instagrammers_or_using_all_day_social_media">For Instagrammers or using all day social media.</string>
+    <string name="vpn_pro_embraces_the_eu_gpdr_regulation_to_support_online_privacy">VPN Pro embraces the EU GPDR regulation to support online privacy.</string>
+    <string name="vpn_connected">VPN connected</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="done">DONE</string>
+    <string name="rate">RATE</string>
+    <string name="later">Later</string>
+    <string name="not_ask_again">Not ask again</string>
+    <string name="gaming">GAMING</string>
+    <string name="never_catch_anything_anymore_watch_4k_and_fhd">Never catch anything anymore. Watch 4K and FHD.</string>
+    <string name="germany">Germany</string>
+    <string name="for_gamer_no_lag_no_ping_espicially_for_pubg">For gamer, no lag, no ping! Espicially for PUBG™.</string>
+    <string name="browse_your_favorite_websites_and_apps_now">Browse your favorite websites and apps now.</string>
+    <string name="active">Active</string>
+    <string name="hong_kong">Hong Kong</string>
+    <string name="region">Region</string>
+    <string name="city">City</string>
+    <string name="ip">IP</string>
+    <string name="_192_168_2_1">192.168.2.1</string>
+    <string name="increase">Increase</string>
+
+
+</resources>
